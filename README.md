@@ -3,7 +3,6 @@
 <p align="center">
 Full Stack Developer focused on building scalable web applications with TypeScript.
 </p>
----
 
 ## About
 
