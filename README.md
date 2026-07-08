@@ -74,9 +74,3 @@ Currently focusing on:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tarun-saxena&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-saxena&layout=compact&theme=github_dark&hide_border=true" />
-</p>
